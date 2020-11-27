@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b7dbc93-1ab8-4475-9e1d-8949fbd5d5df" name="Default Changelist" comment="" />
+    <list default="true" id="9b7dbc93-1ab8-4475-9e1d-8949fbd5d5df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/InitController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/InitController.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable path="composer" />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -116,6 +122,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\wordchain_api" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -130,7 +141,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605078034059</updated>
-      <workItem from="1605078039128" duration="1242000" />
+      <workItem from="1605078039128" duration="8648000" />
+      <workItem from="1605532623446" duration="1191000" />
+      <workItem from="1605610867062" duration="1034000" />
+      <workItem from="1605612724084" duration="2799000" />
+      <workItem from="1605679428814" duration="1213000" />
+      <workItem from="1605756027426" duration="2648000" />
+      <workItem from="1605873225337" duration="3397000" />
+      <workItem from="1606015142020" duration="1784000" />
+      <workItem from="1606057253817" duration="594000" />
+      <workItem from="1606067469754" duration="7989000" />
+      <workItem from="1606240073073" duration="634000" />
+      <workItem from="1606400152107" duration="672000" />
+      <workItem from="1606449205286" duration="596000" />
     </task>
     <servers />
   </component>
@@ -138,25 +161,29 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2610" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606069727160">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606069727160" />
     <state x="736" y="432" key="ComposerInitDialogKey" timestamp="1605078444174">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="736" y="432" key="ComposerInitDialogKey/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605078444174" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605078327961">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605121985761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605078327961" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605078327961">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605121985761" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605121985761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605078327961" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605078327961">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605121985761" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605121985753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605078327961" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605078327961">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605121985753" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605121985761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605078327961" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605121985761" />
   </component>
 </project>
